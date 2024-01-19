@@ -1,0 +1,11 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    box-sizing: border-box;
+}
+
+table,tr,th,td,caption{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 0.5rem;
+}
+
